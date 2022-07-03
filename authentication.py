@@ -1,2 +1,2 @@
-def registrartion(first,last,user,pass):
+def registrartion(first,last,user,pass,email):
 	print("Hello world")
